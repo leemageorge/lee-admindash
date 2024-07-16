@@ -1,6 +1,7 @@
 
 @import "../../styles//variables.scss";
 @import "../../styles//responsive.scss";
+
 .home{
 
     display: grid;
@@ -25,7 +26,7 @@
     .box{
         padding: 20px;
         border-radius: 10px;
-        border: 1px solid $soft-bg;
+        border: 2px solid $soft-bg;
 
     }
     .box1{
